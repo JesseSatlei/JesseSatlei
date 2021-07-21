@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JesseSatlei/JesseSatlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello World, I'm Jessé Satlei!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+# Hi, I'm Jessé Satlei! :D
+
+**… Web Developer 👩‍💻
  
-… Web Developer 👩‍💻
- 
-Lover of Coding and Guitar 💓
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess%C3%A9-satlei-souza-carvalho/)](https://www.linkedin.com/in/jess%C3%A9-satlei-souza-carvalho/)
 
 ## Languages and Tools:
 [![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=jessesatlei)](https://github.com/jessesatlei/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessesatlei&layout=compact)](https://github.com/jessesatlei/github-readme-stats)
 
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+### About me
+I'm a Web developer more focused on the back end and love play Guitar 💓**
+
+- [Courses](https://github.com/) 👨🏼‍🏫 - I took several courses in, such as JavaScript, TypeScript, PHP, Laravel, Git and more
+- [Website](https://github.com/) 💻 - In development.
 
 - Thanks for visiting. 
